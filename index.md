@@ -8,7 +8,7 @@ Nauczysz się pisać kod w wielu różnych językach programowania oraz dowiesz 
 
 ##
 Przedstawię ci różne języki programowania, których się uczyłem oraz pokażę ci przykładowe kody i informacje.
-- C++
+- [C++](./cpp.html)
 - Html
 - Css
 - Java
@@ -22,17 +22,20 @@ Przedstawię ci różne języki programowania, których się uczyłem oraz poka�
 
 
 ```
-C++ to wszechstronny, obiektowo zorientowany język programowania 
-stworzony przez Bjarne Stroustrupa w 1985 roku jako rozszerzenie języka C. 
-Jest on szeroko stosowany w różnych dziedzinach, od systemów operacyjnych, 
-przez aplikacje desktopowe i mobilne, aż po gry komputerowe i systemy wbudowane.
-Główne cechy języka C++ to wydajność i efektywność, wsparcie dla programowania 
-obiektowego, kompatybilność z C, szablony(templates), bibliotego standardowa(STL), 
-sterowanie pamięcią oraz obsługa wyjątków.
+C++ to wszechstronny, obiektowo zorientowany język 
+programowania stworzony przez Bjarne Stroustrupa w 1985 roku
+jako rozszerzenie języka C. Jest on szeroko stosowany
+w różnych dziedzinach, od systemów operacyjnych, przez aplikacje
+desktopowe i mobilne, aż po gry komputerowe i systemy wbudowane.
+Główne cechy języka C++ to wydajność i efektywność, 
+wsparcie dla programowania obiektowego, kompatybilność z C, 
+szablony(templates), bibliotego standardowa(STL), sterowanie 
+pamięcią oraz obsługa wyjątków.
 C++ znajduje zastosowanie w wielu obszarach technologii:
-systemy operacyjne, gry komputerowe, aplikacje wbudowane oraz aplikacje dekstopowe
+systemy operacyjne, gry komputerowe, aplikacje wbudowane oraz 
+aplikacje dekstopowe.
 ```
-
+### [Link do strony o c++](./cpp.html)
 #### Header 4
 
 *   This is an unordered list following a header.
