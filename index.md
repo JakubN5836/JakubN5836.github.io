@@ -2,13 +2,9 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-fgfwafa
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+# Witaj na moim blogu o programowaniu!
+Znajdziesz tu praktyczne porady, tutoriale i informacje związane z programowaniem.
+Nauczysz się pisać kod w wielu różnych językach programowania oraz dowiesz się wielu ciekawostek.
 
 # Header 1
 
