@@ -6,7 +6,7 @@ layout: default
 Znajdziesz tu praktyczne porady, tutoriale i informacje związane z programowaniem.
 Nauczysz się pisać kod w wielu różnych językach programowania oraz dowiesz się wielu ciekawostek.
 
-##
+## Języki programowania
 Przedstawię ci różne języki programowania, których się uczyłem oraz pokażę ci przykładowe kody i informacje.
 - [C++](./cpp.html)
 - Html
