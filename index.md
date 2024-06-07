@@ -32,10 +32,10 @@ efektywność,  wsparcie dla programowania obiektowego,
 kompatybilność z C, szablony(templates), bibliotego 
 standardowa(STL), sterowanie pamięcią oraz obsługa wyjątków.
 C++ znajduje zastosowanie w wielu obszarach technologii:
-systemy operacyjne, gry komputerowe, aplikacje wbudowane oraz 
-aplikacje dekstopowe.
+systemy operacyjne, gry komputerowe, aplikacje wbudowane 
+oraz aplikacje dekstopowe.
 ```
-### [Link do strony o c++](./cpp.html)
+### [Link do strony o C++](./cpp.html)
 #### Header 4
 
 *   This is an unordered list following a header.
