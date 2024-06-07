@@ -6,31 +6,31 @@ layout: default
 Znajdziesz tu praktyczne porady, tutoriale i informacje związane z programowaniem.
 Nauczysz się pisać kod w wielu różnych językach programowania oraz dowiesz się wielu ciekawostek.
 
-# Header 1
+##
+Przedstawię ci różne języki programowania, których się uczyłem oraz pokażę ci przykładowe kody i informacje.
+- C++
+- Html
+- Css
+- Java
+- PHP
+- Python
+- Javascript
+- Kotlin
+- SQL
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+### C++
 
-## Header 2
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
 ```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
+C++ to wszechstronny, obiektowo zorientowany język programowania 
+stworzony przez Bjarne Stroustrupa w 1985 roku jako rozszerzenie języka C. 
+Jest on szeroko stosowany w różnych dziedzinach, od systemów operacyjnych, 
+przez aplikacje desktopowe i mobilne, aż po gry komputerowe i systemy wbudowane.
+Główne cechy języka C++ to wydajność i efektywność, wsparcie dla programowania 
+obiektowego, kompatybilność z C, szablony(templates), bibliotego standardowa(STL), 
+sterowanie pamięcią oraz obsługa wyjątków.
+C++ znajduje zastosowanie w wielu obszarach technologii:
+systemy operacyjne, gry komputerowe, aplikacje wbudowane oraz aplikacje dekstopowe
 ```
 
 #### Header 4
