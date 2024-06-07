@@ -35,7 +35,64 @@ C++ znajduje zastosowanie w wielu obszarach technologii:
 systemy operacyjne, gry komputerowe, aplikacje wbudowane 
 oraz aplikacje dekstopowe.
 ```
-### [Link do strony o C++](./cpp.html)
+### _[Link do strony o C++](./cpp.html)_
+
+### HTML
+
+```
+
+```
+### _[Link do strony o HTML](./html.html)_
+
+### CSS
+
+```
+
+```
+### _[Link do strony o CSS](./css.html)_
+
+### JAVA
+
+```
+
+```
+### _[Link do strony o JAVA](./java.html)_
+
+### PHP
+
+```
+
+```
+### _[Link do strony o PHP](./php.html)_
+
+### PYTHON
+
+```
+
+```
+### _[Link do strony o PYTHON](./python.html)_
+
+### JAVASCRIPT
+
+```
+
+```
+### _[Link do strony o JAVASCRIPT](./javascript.html)_
+
+### KOTLIN
+
+```
+
+```
+### _[Link do strony o KOTLIN](./kotlin.html)_
+
+### SQL
+
+```
+
+```
+### _[Link do strony o SQL](./sql.html)_
+
 #### Header 4
 
 *   This is an unordered list following a header.
