@@ -8,7 +8,7 @@ Nauczysz się pisać kod w wielu różnych językach programowania oraz dowiesz 
 
 ## Języki programowania
 Przedstawię ci różne języki programowania, których się uczyłem oraz pokażę ci przykładowe kody i informacje.
-- [C++](cpp.html)
+- [C++](./cpp.html)
 - Html
 - Css
 - Java
@@ -35,7 +35,7 @@ C++ znajduje zastosowanie w wielu obszarach technologii:
 systemy operacyjne, gry komputerowe, aplikacje wbudowane oraz 
 aplikacje dekstopowe.
 ```
-### [Link do strony o c++](cpp.html)
+### [Link do strony o c++](./cpp.html)
 #### Header 4
 
 *   This is an unordered list following a header.
