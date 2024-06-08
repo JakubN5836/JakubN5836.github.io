@@ -105,7 +105,6 @@ ekosystem narzędzi i frameworków
 ### PHP
 
 ```
-
 PHP (Hypertext Preprocessor) to popularny język skryptowy
 stworzony w 1994 roku przez Rasmusa Lerdorfa, głównie do 
 tworzenia dynamicznych stron internetowych. Jako język 
@@ -133,14 +132,37 @@ które wspierają rozwój i rozwiązywanie problemów.
 ### JAVASCRIPT
 
 ```
-
+JavaScript to wszechstronny język programowania, kluczowy
+w tworzeniu interaktywnych stron i aplikacji webowych. 
+Stworzony przez Brendana Eicha w 1995 roku w Netscape, 
+JavaScript umożliwił dynamiczne zmiany w statycznych 
+wcześniej stronach. Działa bezpośrednio w przeglądarkach, 
+co pozwala na manipulację HTML i CSS, a także jest używany
+po stronie serwera dzięki Node.js. Jego główne cechy to 
+interpretacja w czasie rzeczywistym, dynamiczne typowanie
+oraz wsparcie dla wielu paradygmatów programowania, 
+w tym obiektowego i funkcjonalnego. JavaScript wspiera 
+asynchroniczność, co jest kluczowe dla nieblokujących 
+operacji sieciowych, i umożliwia bezpośrednie manipulowanie
+DOM oraz wprowadza nowoczesne funkcje jak klasy i moduły.
 ```
 ### _[Link do strony o JAVASCRIPT](./javascript.html)_
 
 ### KOTLIN
 
 ```
-
+Kotlin to nowoczesny język programowania, stworzony przez
+JetBrains i zaprezentowany w 2011 roku. Jego pierwsza 
+stabilna wersja ukazała się w 2016 roku. Kotlin zyskał 
+na popularności szczególnie wśród deweloperów aplikacji 
+na Androida, zwłaszcza po tym, jak Google ogłosiło w 
+2017 roku oficjalne wsparcie dla tego języka. Kotlin jest
+w pełni interoperacyjny z Javą, co pozwala na korzystanie
+z istniejących bibliotek i narzędzi Java. Charakteryzuje 
+się bezpieczeństwem typów, zwięzłością kodu oraz wsparciem
+dla nowoczesnych funkcji, takich jak lambdy i coroutines. 
+Kotlin może być używany na różnych platformach, od Androida
+po aplikacje webowe i serwerowe.
 ```
 ### _[Link do strony o KOTLIN](./kotlin.html)_
 
