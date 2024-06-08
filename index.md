@@ -108,23 +108,25 @@ ekosystem narzędzi i frameworków
 (PHP: Hypertext Preprocessor) to popularny, skryptowy 
 język programowania, stworzony głównie do tworzenia 
 dynamicznych stron internetowych. PHP został opracowany 
-w 1994 roku przez Rasmusa Lerdorfa i od tego czasu rozwija
-się, stając się jednym z najczęściej używanych języków w 
-sieci. PHP jest językiem open-source, co oznacza, że jego 
-kod źródłowy jest dostępny i może być modyfikowany przez 
-społeczność programistów na całym świecie. Jest szeroko 
-używany do budowy serwisów internetowych, aplikacji 
-webowych i systemów zarządzania treścią (CMS).
-Główne cechy PHP to: skryptowy język serwerowy, prostota
-i łatwość nauki, wszechstronność, rozszerzalność: PHP 
-wspiera różnorodne rozszerzenia, które można łatwo dodawać
-do środowiska PHP w celu zwiększenia jego funkcjonalności, 
-społeczność i wsparcie: PHP ma ogromną, aktywną społeczność,
-co oznacza, że jest wiele dostępnych zasobów, takich jak 
-dokumentacja, fora, tutoriale i open-source’owe frameworki, 
-które mogą pomóc w rozwoju i rozwiązywaniu problemów.
-Kod PHP może być osadzony bezpośrednio w HTML, co pozwala 
-na dynamiczne generowanie treści na stronach internetowych. 
+w 1994 roku przez Rasmusa Lerdorfa i od tego czasu 
+rozwija się, stając się jednym z najczęściej używanych 
+języków w sieci. PHP jest językiem open-source, 
+co oznacza, że jego kod źródłowy jest dostępny i może 
+być modyfikowany przez społeczność programistów na 
+całym świecie. Jest szeroko używany do budowy serwisów
+internetowych, aplikacji webowych i systemów 
+zarządzania treścią (CMS). Główne cechy PHP to: 
+skryptowy język serwerowy, prostota i łatwość nauki, 
+wszechstronność, rozszerzalność: PHP wspiera różnorodne
+rozszerzenia, które można łatwo dodawać do środowiska 
+PHP w celu zwiększenia jego funkcjonalności, 
+społeczność i wsparcie: PHP ma ogromną, aktywną 
+społeczność, co oznacza, że jest wiele dostępnych 
+zasobów, takich jak dokumentacja, fora, tutoriale
+i open-source’owe frameworki, które mogą pomóc w 
+rozwoju i rozwiązywaniu problemów. Kod PHP może być 
+osadzony bezpośrednio w HTML, co pozwala na dynamiczne
+generowanie treści na stronach internetowych. 
 ```
 ### _[Link do strony o PHP](./php.html)_
 
@@ -155,3 +157,14 @@ na dynamiczne generowanie treści na stronach internetowych.
 
 ```
 ### _[Link do strony o SQL](./sql.html)_
+
+## Strony partnerskie
+#### [facebook](https://m.facebook.com/zstkolbuszowa)
+#### [github](https://bartdurak.github.io/1a/)
+#### [blog](http://pbud.blogspot.com)
+
+## Pana Social Media
+#### [youtube](https://www.youtube.com/@bartomiejdurak1723)
+#### [twitter](https://x.com/batq2)
+#### [tiktok](https://www.tiktok.com/@mechatronikaedu)
+#### [github](https://github.com/bartdurak)
