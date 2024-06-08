@@ -159,12 +159,12 @@ generowanie treści na stronach internetowych.
 ### _[Link do strony o SQL](./sql.html)_
 
 ## Strony partnerskie
-#### [facebook](https://m.facebook.com/zstkolbuszowa)
-#### [github](https://bartdurak.github.io/1a/)
-#### [blog](http://pbud.blogspot.com)
+#### <img src="Facebook_f_logo_(2019).svg.png" width=15 alt="Facebook logo"> [Facebook](https://m.facebook.com/zstkolbuszowa)
+#### <img src="25231.png" width=18 alt="Github logo"> [Strona na github](https://bartdurak.github.io/1a/)
+#### <img src="Blogger.svg.png" width=17 alt="Blogspot logo"> [Strona na blogspot](http://pbud.blogspot.com)
 
 ## Pana Social Media
-#### <img src="Youtube_logo.png" width=16 alt="Youtube logo"> [Youtube](https://www.youtube.com/@bartomiejdurak1723)
-#### <img src="x-logo-twitter-elon-musk_dezeen_2364_col_0(1).png" width=16 alt="Twitter logo"> [Twitter](https://x.com/batq2)
+#### <img src="Youtube_logo.png" width=17 alt="Youtube logo"> [Youtube](https://www.youtube.com/@bartomiejdurak1723)
+#### <img src="x-logo-twitter-elon-musk_dezeen_2364_col_0(1).png" width=17 alt="Twitter logo"> [Twitter](https://x.com/batq2)
 #### <img src="tiktok-logo-tiktok-logo-transparent-tiktok-icon-transparent-free-free-png.png" width=20 alt="Tiktok logo"> [Tiktok](https://www.tiktok.com/@mechatronikaedu)
 #### <img src="25231.png" width=18 alt="Github logo"> [Github](https://github.com/bartdurak)
