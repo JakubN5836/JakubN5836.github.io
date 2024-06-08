@@ -49,25 +49,34 @@ dokumentów w sieci World Wide Web.
 HTML nie jest językiem programowania, lecz językiem 
 znaczników (markup language), co oznacza, że służy do 
 opisywania struktury i treści dokumentów.
-Główne elementy HTML to:
-<!DOCTYPE html>: Deklaracja doctype, która informuje 
-przeglądarkę o używanej wersji HTML.
-<html>: Element główny, który otacza cały dokument HTML.
-<head>: Sekcja zawierająca metadane strony, takie jak tytuł, 
-ustawienia kodowania znaków i linki do zasobów zewnętrznych (np. CSS, JavaScript).
-<title>: Określa tytuł strony wyświetlany na karcie przeglądarki.
-<body>: Główna zawartość strony, która jest widoczna dla użytkowników.
-<header>, <nav>, <section>, <footer>: Przykłady semantycznych znaczników używanych 
-do organizacji i strukturyzacji treści strony.
-<a>: Znacznik hiperłącza, który pozwala na tworzenie linków do innych stron lub zasobów.
-<form>: Element formularza, umożliwiający wprowadzanie i wysyłanie danych przez użytkowników.
+Główne Cechy HTML to używanie znaczników (tagów) do 
+budowy strony, tworzenie linków do innych stron (<a>),
+obsługa obrazów, wideo i audio (<img>, <video>, <audio>),
+umożliwia zbieranie danych od użytkowników (<form>),
+używa znaczników opisujących części strony 
+(<header>, <footer>), dostosowuje strony do różnych 
+urządzeń, opisuje, co wyświetlić, nie jak wyświetlić,
+jest łatwy do nauki i użycia, oraz zgodny z 
+przeglądarkami: działa na wszystkich przeglądarkach,
+integruje JavaScript dla interaktywności.
 ```
 ### _[Link do strony o HTML](./html.html)_
 
 ### CSS
 
 ```
-
+CSS, czyli Kaskadowe Arkusze Stylów, to język używany 
+do opisu wyglądu i formatowania dokumentów napisanych 
+w HTML (oraz XML). CSS pozwala na oddzielenie struktury 
+dokumentu (HTML) od jego stylizacji, co upraszcza 
+zarządzanie wyglądem stron internetowych i ułatwia ich 
+utrzymanie. Został stworzony przez Håkon Wium Lie 
+i przedstawiony przez W3C (World Wide Web Consortium) 
+w 1996 roku. Główne cechy CSS to  oddzielenie treści od 
+stylu, kaskadowość (cascading), czyli pozwolenie na 
+stosowanie wielu stylów do jednego elementu, 
+responsywność, animacje i przejścia 
+oraz elastyczne układy.
 ```
 ### _[Link do strony o CSS](./css.html)_
 
