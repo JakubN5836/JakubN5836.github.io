@@ -125,14 +125,15 @@ które wspierają rozwój i rozwiązywanie problemów.
 ### PYTHON
 
 ```
-Python to wszechstronny, wysokopoziomowy język programowania,
-znany ze swojej prostoty i czytelności. Stworzony przez 
-Guido van Rossuma, został po raz pierwszy wydany w 1991 roku.
-Python jest interpretowany, co oznacza, że kod jest 
-wykonywany bezpośrednio bez wcześniejszej kompilacji. 
-Dzięki swojej prostocie i wszechstronności jest popularny 
-zarówno wśród początkujących, jak i doświadczonych 
-programistów. Stosowany jest w wielu dziedzinach, od analizy
+Python to wszechstronny, wysokopoziomowy język 
+programowania, znany ze swojej prostoty i czytelności. 
+Stworzony przez Guido van Rossuma, został po raz 
+pierwszy wydany w 1991 roku. Python jest interpretowany,
+co oznacza, że kod jest wykonywany bezpośrednio bez
+wcześniejszej kompilacji. Dzięki swojej prostocie 
+i wszechstronności jest popularny zarówno wśród 
+początkujących, jak i doświadczonych programistów. 
+Stosowany jest w wielu dziedzinach, od analizy
 danych i AI, przez web development, po automatyzację. 
 Jego cechy to czytelna składnia, obszerna biblioteka 
 standardowa, wsparcie dla wielu paradygmatów programowania
