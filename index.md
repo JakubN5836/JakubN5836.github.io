@@ -125,7 +125,19 @@ które wspierają rozwój i rozwiązywanie problemów.
 ### PYTHON
 
 ```
-
+Python to wszechstronny, wysokopoziomowy język programowania,
+znany ze swojej prostoty i czytelności. Stworzony przez 
+Guido van Rossuma, został po raz pierwszy wydany w 1991 roku.
+Python jest interpretowany, co oznacza, że kod jest 
+wykonywany bezpośrednio bez wcześniejszej kompilacji. 
+Dzięki swojej prostocie i wszechstronności jest popularny 
+zarówno wśród początkujących, jak i doświadczonych 
+programistów. Stosowany jest w wielu dziedzinach, od analizy
+danych i AI, przez web development, po automatyzację. 
+Jego cechy to czytelna składnia, obszerna biblioteka 
+standardowa, wsparcie dla wielu paradygmatów programowania
+oraz łatwa integracja z innymi językami. Python ma także 
+aktywną społeczność, która stale go rozwija i wspiera.
 ```
 ### _[Link do strony o PYTHON](./python.html)_
 
@@ -187,12 +199,12 @@ różnymi systemami.
 ### _[Link do strony o SQL](./sql.html)_
 
 ## Strony partnerskie
-#### <img src="Facebook_f_logo_(2019).svg.png" width=15 alt="Facebook logo" target="_blank"> [Facebook](https://m.facebook.com/zstkolbuszowa)
-#### <img src="25231.png" width=18 alt="Github logo" target="_blank"> [Strona na github](https://bartdurak.github.io/1a/)
-#### <img src="Blogger.svg.png" width=17 alt="Blogspot logo" target="_blank"> [Strona na blogspot](http://pbud.blogspot.com)
+#### <img src="Facebook_f_logo_(2019).svg.png" width=15 alt="Facebook logo"> [Facebook](https://m.facebook.com/zstkolbuszowa)
+#### <img src="25231.png" width=18 alt="Github logo"> [Strona na github](https://bartdurak.github.io/1a/)
+#### <img src="Blogger.svg.png" width=17 alt="Blogspot logo"> [Strona na blogspot](http://pbud.blogspot.com)
 
 ## Pana Social Media
-#### <img src="Youtube_logo.png" width=17 alt="Youtube logo" target="_blank"> [Youtube](https://www.youtube.com/@bartomiejdurak1723)
-#### <img src="x-logo-twitter-elon-musk_dezeen_2364_col_0(1).png" width=17 alt="Twitter logo" target="_blank"> [Twitter](https://x.com/batq2)
-#### <img src="tiktok-logo-tiktok-logo-transparent-tiktok-icon-transparent-free-free-png.png" width=20 alt="Tiktok logo" target="_blank"> [Tiktok](https://www.tiktok.com/@mechatronikaedu)
-#### <img src="25231.png" width=18 alt="Github logo" target="_blank"> [Github](https://github.com/bartdurak)
+#### <img src="Youtube_logo.png" width=17 alt="Youtube logo"> [Youtube](https://www.youtube.com/@bartomiejdurak1723)
+#### <img src="x-logo-twitter-elon-musk_dezeen_2364_col_0(1).png" width=17 alt="Twitter logo"> [Twitter](https://x.com/batq2)
+#### <img src="tiktok-logo-tiktok-logo-transparent-tiktok-icon-transparent-free-free-png.png" width=20 alt="Tiktok logo"> [Tiktok](https://www.tiktok.com/@mechatronikaedu)
+#### <img src="25231.png" width=18 alt="Github logo"> [Github](https://github.com/bartdurak)
