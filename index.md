@@ -41,7 +41,26 @@ aplikacje wbudowane oraz aplikacje dekstopowe.
 ### HTML
 
 ```
-
+HTML, czyli HyperText Markup Language, jest podstawowym 
+językiem używanym do tworzenia i strukturyzacji stron 
+internetowych. Został stworzony na początku lat 90. 
+przez Tima Berners-Lee, aby umożliwić publikowanie 
+dokumentów w sieci World Wide Web. 
+HTML nie jest językiem programowania, lecz językiem 
+znaczników (markup language), co oznacza, że służy do 
+opisywania struktury i treści dokumentów.
+Główne elementy HTML to:
+<!DOCTYPE html>: Deklaracja doctype, która informuje 
+przeglądarkę o używanej wersji HTML.
+<html>: Element główny, który otacza cały dokument HTML.
+<head>: Sekcja zawierająca metadane strony, takie jak tytuł, 
+ustawienia kodowania znaków i linki do zasobów zewnętrznych (np. CSS, JavaScript).
+<title>: Określa tytuł strony wyświetlany na karcie przeglądarki.
+<body>: Główna zawartość strony, która jest widoczna dla użytkowników.
+<header>, <nav>, <section>, <footer>: Przykłady semantycznych znaczników używanych 
+do organizacji i strukturyzacji treści strony.
+<a>: Znacznik hiperłącza, który pozwala na tworzenie linków do innych stron lub zasobów.
+<form>: Element formularza, umożliwiający wprowadzanie i wysyłanie danych przez użytkowników.
 ```
 ### _[Link do strony o HTML](./html.html)_
 
