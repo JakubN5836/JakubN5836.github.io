@@ -105,28 +105,21 @@ ekosystem narzędzi i frameworków
 ### PHP
 
 ```
-(PHP: Hypertext Preprocessor) to popularny, skryptowy 
-język programowania, stworzony głównie do tworzenia 
-dynamicznych stron internetowych. PHP został opracowany 
-w 1994 roku przez Rasmusa Lerdorfa i od tego czasu 
-rozwija się, stając się jednym z najczęściej używanych 
-języków w sieci. PHP jest językiem open-source, 
-co oznacza, że jego kod źródłowy jest dostępny i może 
-być modyfikowany przez społeczność programistów na 
-całym świecie. Jest szeroko używany do budowy serwisów
-internetowych, aplikacji webowych i systemów 
-zarządzania treścią (CMS). Główne cechy PHP to: 
-skryptowy język serwerowy, prostota i łatwość nauki, 
-wszechstronność, rozszerzalność: PHP wspiera różnorodne
-rozszerzenia, które można łatwo dodawać do środowiska 
-PHP w celu zwiększenia jego funkcjonalności, 
-społeczność i wsparcie: PHP ma ogromną, aktywną 
-społeczność, co oznacza, że jest wiele dostępnych 
-zasobów, takich jak dokumentacja, fora, tutoriale
-i open-source’owe frameworki, które mogą pomóc w 
-rozwoju i rozwiązywaniu problemów. Kod PHP może być 
-osadzony bezpośrednio w HTML, co pozwala na dynamiczne
-generowanie treści na stronach internetowych. 
+
+PHP (Hypertext Preprocessor) to popularny język skryptowy
+stworzony w 1994 roku przez Rasmusa Lerdorfa, głównie do 
+tworzenia dynamicznych stron internetowych. Jako język 
+open-source, PHP umożliwia społeczności programistów na 
+całym świecie dostęp i modyfikację jego kodu źródłowego. 
+Dzięki prostocie, łatwości nauki oraz wszechstronności, 
+PHP jest powszechnie stosowany w budowie serwisów 
+internetowych, aplikacji webowych i systemów zarządzania
+treścią (CMS). Jego kluczowe cechy to możliwość osadzania
+kodu bezpośrednio w HTML, co ułatwia dynamiczne generowanie
+treści, oraz wsparcie licznych rozszerzeń zwiększających 
+funkcjonalność. Duża, aktywna społeczność PHP zapewnia 
+bogate zasoby, takie jak dokumentacja, fora i tutoriale, 
+które wspierają rozwój i rozwiązywanie problemów. 
 ```
 ### _[Link do strony o PHP](./php.html)_
 
@@ -154,17 +147,30 @@ generowanie treści na stronach internetowych.
 ### SQL
 
 ```
-
+SQL (Structured Query Language) to deklaratywny język 
+zapytań używany do zarządzania relacyjnymi bazami danych. 
+Powstał w latach 70. w IBM, opracowany przez Donalda 
+Chamberlina i Raya Boyce'a. SQL jest standardem 
+przemysłowym stosowanym przez większość systemów DBMS, 
+takich jak MySQL, PostgreSQL, Oracle i SQL Server. 
+Umożliwia tworzenie, modyfikowanie i zarządzanie 
+strukturami danych oraz operowanie danymi w bazach. 
+Jako język deklaratywny, SQL pozwala użytkownikom 
+określać wyniki, które chcą uzyskać, a nie szczegóły 
+wykonania. Obsługuje złożone operacje, jak filtrowanie, 
+sortowanie, grupowanie i łączenie tabel. Jest standardem 
+ISO/ANSI, co zapewnia jego spójność i przenośność między 
+różnymi systemami.
 ```
 ### _[Link do strony o SQL](./sql.html)_
 
 ## Strony partnerskie
-#### <img src="Facebook_f_logo_(2019).svg.png" width=15 alt="Facebook logo"> [Facebook](https://m.facebook.com/zstkolbuszowa)
-#### <img src="25231.png" width=18 alt="Github logo"> [Strona na github](https://bartdurak.github.io/1a/)
-#### <img src="Blogger.svg.png" width=17 alt="Blogspot logo"> [Strona na blogspot](http://pbud.blogspot.com)
+#### <img src="Facebook_f_logo_(2019).svg.png" width=15 alt="Facebook logo" target="_blank"> [Facebook](https://m.facebook.com/zstkolbuszowa)
+#### <img src="25231.png" width=18 alt="Github logo" target="_blank"> [Strona na github](https://bartdurak.github.io/1a/)
+#### <img src="Blogger.svg.png" width=17 alt="Blogspot logo" target="_blank"> [Strona na blogspot](http://pbud.blogspot.com)
 
 ## Pana Social Media
-#### <img src="Youtube_logo.png" width=17 alt="Youtube logo"> [Youtube](https://www.youtube.com/@bartomiejdurak1723)
-#### <img src="x-logo-twitter-elon-musk_dezeen_2364_col_0(1).png" width=17 alt="Twitter logo"> [Twitter](https://x.com/batq2)
-#### <img src="tiktok-logo-tiktok-logo-transparent-tiktok-icon-transparent-free-free-png.png" width=20 alt="Tiktok logo"> [Tiktok](https://www.tiktok.com/@mechatronikaedu)
-#### <img src="25231.png" width=18 alt="Github logo"> [Github](https://github.com/bartdurak)
+#### <img src="Youtube_logo.png" width=17 alt="Youtube logo" target="_blank"> [Youtube](https://www.youtube.com/@bartomiejdurak1723)
+#### <img src="x-logo-twitter-elon-musk_dezeen_2364_col_0(1).png" width=17 alt="Twitter logo" target="_blank"> [Twitter](https://x.com/batq2)
+#### <img src="tiktok-logo-tiktok-logo-transparent-tiktok-icon-transparent-free-free-png.png" width=20 alt="Tiktok logo" target="_blank"> [Tiktok](https://www.tiktok.com/@mechatronikaedu)
+#### <img src="25231.png" width=18 alt="Github logo" target="_blank"> [Github](https://github.com/bartdurak)
