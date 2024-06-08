@@ -164,7 +164,7 @@ generowanie treści na stronach internetowych.
 #### [blog](http://pbud.blogspot.com)
 
 ## Pana Social Media
-#### <img src="Youtube_logo.png" width=20> [youtube](https://www.youtube.com/@bartomiejdurak1723)
-#### [twitter](https://x.com/batq2)
-#### [tiktok](https://www.tiktok.com/@mechatronikaedu)
+#### <img src="Youtube_logo.png" width=16 alt="youtube logo"> [Youtube](https://www.youtube.com/@bartomiejdurak1723)
+#### <img src="x-logo-twitter-elon-musk_dezeen_2364_col_0 (1).png" width=16 alt="Twitter logo"> [Twitter](https://x.com/batq2)
+#### <img src="tiktok-logo-tiktok-logo-transparent-tiktok-icon-transparent-free-free-png.png" width=20 alt="Tiktok logo">[Tiktok](https://www.tiktok.com/@mechatronikaedu)
 #### [github](https://github.com/bartdurak)
