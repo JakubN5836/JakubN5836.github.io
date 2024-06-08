@@ -83,7 +83,22 @@ oraz elastyczne układy.
 ### JAVA
 
 ```
-
+Java to wszechstronny, obiektowo zorientowany język 
+programowania opracowany przez firmę Sun Microsystems 
+(obecnie część Oracle Corporation) i wprowadzony na rynek
+w 1995 roku. Twórcą Javy był James Gosling, który 
+stworzył ją z myślą o przenośności i bezpieczeństwie 
+aplikacji. Java jest jednym z najpopularniejszych języków 
+programowania na świecie, szeroko stosowanym w różnych 
+dziedzinach, od aplikacji mobilnych, przez serwisy 
+internetowe, po systemy korporacyjne. Główne cechy Javy to:
+obiektowość, przenośność (Write Once, Run Anywhere) - 
+aplikacje napisane w Javie są kompilowane do kodu bajtowego, 
+który może być uruchamiany na każdej maszynie wirtualnej 
+Java (JVM), niezależnie od systemu operacyjnego i 
+architektury sprzętowej, bezpieczeństwo, automatyczne 
+zarządzanie pamięcią, wielowątkowość, rozbudowane api oraz
+ekosystem narzędzi i frameworków
 ```
 ### _[Link do strony o JAVA](./java.html)_
 
