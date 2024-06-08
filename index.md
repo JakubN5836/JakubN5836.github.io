@@ -8,15 +8,15 @@ Nauczysz się pisać kod w wielu różnych językach programowania oraz dowiesz 
 
 ## Języki programowania
 Przedstawię ci różne języki programowania, których się uczyłem oraz pokażę ci przykładowe kody i informacje.
-- [C++](./cpp.html)
-- [Html](./html.html)
-- [Css](./css.html)
-- [Java](./java.html)
-- [PHP](./php.html)
-- [Python](./python.html)
-- [Javascript](./javascript.html)
-- [Kotlin](./kotlin.html)
-- [SQL](./sql.html)
+- [C++](#c)
+- [Html](#html)
+- [Css](#css)
+- [Java](#java)
+- [PHP](#php)
+- [Python](#python)
+- [Javascript](#javascript)
+- [Kotlin](#kotlin)
+- [SQL](#sql)
 
 ### C++
 
