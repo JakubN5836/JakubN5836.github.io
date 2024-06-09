@@ -199,6 +199,7 @@ różnymi systemami.
 ```
 ### _[Link do strony o SQL](./sql.html)_
 
+
 ## Strony partnerskie
 #### <img src="Facebook_f_logo_(2019).svg.png" width=15 alt="Facebook logo"> [Facebook](https://m.facebook.com/zstkolbuszowa)
 #### <img src="25231.png" width=18 alt="Github logo"> [Strona na github](https://bartdurak.github.io/1a/)
