@@ -15,7 +15,7 @@ int main() {
   return 0;
 }
 ```
-**Linia 1:** _#include <iostream>_ to nagłówek biblioteki, który pozwala nam korzystać z obiektów wejścia i wyjścia, takich jak _cout_. Pliki nagłówkowe dodają funkcjonalności do programów w C++.
+**Linia 1:** _#include <iostream.>_ to nagłówek biblioteki, który pozwala nam korzystać z obiektów wejścia i wyjścia, takich jak _cout_ . Pliki nagłówkowe dodają funkcjonalności do programów w C++.
 
 **Linia 2:** _using namespace std_ oznacza, że możemy używać nazw obiektów i zmiennych z biblioteki standardowej bez konieczności poprzedzania ich prefiksem _std::_.
 
@@ -36,5 +36,37 @@ int main() {
 
 - **Konwencje nazewnictwa:** Używanie przejrzystych i opisowych nazw zmiennych, funkcji i klas sprawia, że kod jest łatwiejszy do zrozumienia i utrzymania.
 
+## Zmienne w C++
+Zmienne to kontenery do przechowywania wartości danych. W C++ istnieją różne typy zmiennych, które są definiowane za pomocą różnych słów kluczowych. Oto niektóre z nich:
+1. **int** - przechowuje liczby całkowite (bez miejsc dziesiętnych), takie jak 123 lub -123
+2. **double** - przechowuje liczby zmiennoprzecinkowe (z miejscami dziesiętnymi), takie jak 19.99 lub -19.99
+3. **char** - przechowuje pojedyncze znaki, takie jak 'a' lub 'B'. Wartości typu char są otoczone pojedynczymi cudzysłowami
+4. **string** - przechowuje tekst, taki jak "Hello World". Wartości typu string są otoczone podwójnymi cudzysłowami
+5. **bool** - przechowuje wartości mające dwa stany: true (prawda) lub false (fałsz)
 
+#### Przykład zastosowania zmiennych
+
+```cpp
+#include <iostream>
+#include <string> // Potrzebne do użycia typu string
+
+using namespace std;
+
+int main() {
+    int liczbaCalkowita = 123; // Zmienna typu int
+    double liczbaZmiennoprzecinkowa = 19.99; // Zmienna typu double
+    char pojedynczyZnak = 'A'; // Zmienna typu char
+    string tekst = "Hello World"; // Zmienna typu string
+    bool prawdaCzyFalsz = true; // Zmienna typu bool
+
+    // Wyświetlanie wartości zmiennych
+    cout << "Liczba całkowita: " << liczbaCalkowita << endl;
+    cout << "Liczba zmiennoprzecinkowa: " << liczbaZmiennoprzecinkowa << endl;
+    cout << "Pojedynczy znak: " << pojedynczyZnak << endl;
+    cout << "Tekst: " << tekst << endl;
+    cout << "Prawda czy fałsz: " << prawdaCzyFalsz << endl;
+
+    return 0;
+}
+```
 ### _[Powrót do strony głównej](./index.html)_
