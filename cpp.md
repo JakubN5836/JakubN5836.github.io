@@ -82,4 +82,21 @@ Operatory arytmetyczne są używane do wykonywania podstawowych operacji matemat
 | ++       | Inkrementacja | Zwieksza wartość zmiennej o 1     | ++x lub x++ |
 | --       | Dekrementacja | Zmniejsza wartość zmiennej o 1    | --x lub x-- |
 
+## Operatory Przypisania w C++
+Operatory przypisania są używane do przypisywania wartości zmiennym. Poniżej znajduje się lista operatorów przypisania dostępnych w C++ wraz z ich opisem i przykładami:
+
+
+| Operator | Przykład  | 	To samo co |
+|----------|-----------|-------------|
+| =	       | x = 5	    | x = 5       |
+| +=	      | x += 3	   | x = x + 3   |
+| -=	      | x -= 3	   | x = x - 3   |
+| *=	      | x *= 3	   | x = x * 3   |
+| /=	      | x /= 3	   | x = x / 3   |
+| %=	      | x %= 3	   | x = x % 3   |
+| &=	      | x &= 3	   | x = x & 3   |
+| ^=	      | x ^= 3	   | x = x ^ 3   |
+| .>>=     | 	x >>= 3  | 	x = x >> 3 |
+| <<=      | 	x <<= 3	 | x = x << 3  |
+
 ### _[Powrót do strony głównej](./index.html)_
