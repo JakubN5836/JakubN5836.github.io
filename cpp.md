@@ -87,16 +87,33 @@ Operatory przypisania są używane do przypisywania wartości zmiennym. Poniżej
 
 
 | Operator | Przykład  | 	To samo co |
-|----------|-----------|-------------|
-| =	       | x = 5	    | x = 5       |
-| +=	      | x += 3	   | x = x + 3   |
-| -=	      | x -= 3	   | x = x - 3   |
-| *=	      | x *= 3	   | x = x * 3   |
-| /=	      | x /= 3	   | x = x / 3   |
-| %=	      | x %= 3	   | x = x % 3   |
-| &=	      | x &= 3	   | x = x & 3   |
-| ^=	      | x ^= 3	   | x = x ^ 3   |
-| .>>=     | 	x >>= 3  | 	x = x >> 3 |
-| <<=      | 	x <<= 3	 | x = x << 3  |
+|---------|-----------|-------------|
+| =	      | x = 5	    | x = 5       |
+| +=	     | x += 3	   | x = x + 3   |
+| -=	     | x -= 3	   | x = x - 3   |
+| *=	     | x *= 3	   | x = x * 3   |
+| /=	     | x /= 3	   | x = x / 3   |
+| %=	     | x %= 3	   | x = x % 3   |
+| &=	     | x &= 3	   | x = x & 3   |
+| ^=	     | x ^= 3	   | x = x ^ 3   |
+| **>>**=     | 	x >>= 3  | 	x = x >> 3 |
+| <<=     | 	x <<= 3	 | x = x << 3  |
+
+## Operatory Porównania
+Operatory porównania są używane do porównywania dwóch wartości (lub zmiennych). Jest to ważne w programowaniu, ponieważ pozwala nam znajdować odpowiedzi i podejmować decyzje.
+
+Wartość zwracana przez operator porównania to albo 1, albo 0, co oznacza odpowiednio true (prawda) lub false (fałsz). Te wartości są znane jako wartości logiczne (Boolean).
+
+Operatory porównania są używane do porównywania dwóch wartości (lub zmiennych). Jest to ważne w programowaniu, ponieważ pozwala nam znajdować odpowiedzi i podejmować decyzje.
+
+| Operator | 	Nazwa	             | Przykład |
+|----------|---------------------|----------|
+| ==       | 	Równe	             | x == y   |
+| !=	      | Różne	              | x != y   |
+| **>**	       | Większe niż	        | x > y    |
+| <	       | Mniejsze niż	       | x < y    |
+| **>**=	      | Większe lub równe	  | x >= y   |
+| <=	      | Mniejsze lub równe	 | x <= y   |
+
 
 ### _[Powrót do strony głównej](./index.html)_
