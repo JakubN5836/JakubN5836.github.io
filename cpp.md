@@ -56,7 +56,7 @@ int main() {
     int liczbaCalkowita = 123; // Zmienna typu int
     double liczbaZmiennoprzecinkowa = 19.99; // Zmienna typu double
     char pojedynczyZnak = 'A'; // Zmienna typu char
-    string tekst = "Hello World"; // Zmienna typu string
+    string tekst = "Witaj świecie"; // Zmienna typu string
     bool prawdaCzyFalsz = true; // Zmienna typu bool
 
     // Wyświetlanie wartości zmiennych
@@ -69,4 +69,17 @@ int main() {
     return 0;
 }
 ```
+## Operatory Arytmetyczne w C++
+Operatory arytmetyczne są używane do wykonywania podstawowych operacji matematycznych. Oto lista operatorów arytmetycznych dostępnych w C++ wraz z ich opisem i przykładami:
+
+| Operator | Nazwa         | Opis                              | Przykład    |
+|----------|---------------|-----------------------------------|-------------|
+| +        | Dodawanie     | Dodaje dwie wartości              | x + y       |
+| -        | Odejmowanie   | Odejmuje jedną wartość od drugiej | x - y       |
+| *        | Mnożenie      | Mnoży dwie wartości               | x * y       |
+| /        | Dzielenie     | Dzieli jedną wartość przez drugą  | x / y       |
+| %        | Modulo        | Zwraca resztę z dzielenia         | x % y       |
+| ++       | Inkrementacja | Zwieksza wartość zmiennej o 1     | ++x lub x++ |
+| --       | Dekrementacja | Zmniejsza wartość zmiennej o 1    | --x lub x-- |
+
 ### _[Powrót do strony głównej](./index.html)_
